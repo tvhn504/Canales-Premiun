@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1 group-title="Honduras" tvg-chno="40" tvg-logo="https://play-lh.googleusercontent.com/Pj0cw_MtiXOVbmPnOYWuxjRg_RdJIDU682YhYxqwUeFtVYX7QSn-lQgxDKBuJYQ9ajm7.png",Lenca Television
+
+http://lencatelevision.com:8080/hls/ltv1.m3u8
+
+#EXTINF:-1 group-title="Honduras" tvg-chno="1" tvg-logo="https://https://hch.tv/wp-content/uploads/2021/09/logos-hch-bueno-1.png" HCH Television Digital
+
+https://www.dailymotion.com/cdn/live/video/x81za5c.m3u8?sec=sPYEK-W2Hf_wChBMD8UlVO8LIdZN-onW0k9z5VXHqYM0pvBacap0AJz3L0q4iLDPQCDLNCOIohNr1uDE69lYgA&dmTs=998331&dmV1st=23232cf2-bb61-444b-b93c-828c775ac8f6
