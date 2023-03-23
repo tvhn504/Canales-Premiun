@@ -1,12 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="Honduras" tvg-chno="40" tvg-logo="https://play-lh.googleusercontent.com/Pj0cw_MtiXOVbmPnOYWuxjRg_RdJIDU682YhYxqwUeFtVYX7QSn-lQgxDKBuJYQ9ajm7.png",Lenca Television
-
 http://lencatelevision.com:8080/hls/ltv1.m3u8
-
 #EXTINF:-1 group-title="Honduras" tvg-chno="1" tvg-logo="https://www.teleprogreso.tv/wp-content/uploads/2019/12/Teleprogreso-Logo-250x250.jpg" TeleProgreso
-
 https://Stmv1.zcasthn.com.br/teleprogreso/teleprogreso/playlist.m3u8
-
-
 #EXTINF:-1 group-title="Honduras" tvg-chno="2" tvg-logo="https://www.teleprogreso.tv/wp-content/uploads/2019/12/Teleprogreso-Logo-250x250.jpg" HCH En Vivo
 https://www.dailymotion.com/cdn/live/video/x81za5c.m3u8
